@@ -10,3 +10,4 @@ compiler:
 script:
   - make
   - make -C real-tests/
+  - ./tests/unit_test libunit.a
