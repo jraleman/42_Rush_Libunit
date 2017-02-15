@@ -1,7 +1,10 @@
 NAME
 ====
 
-libunit - I will *NEVER* deploy untested code
+## libunit
+I will *NEVER* deploy untested code
+
+[![Build Status](https://travis-ci.org/jraleman/libunit.svg?branch=master)](https://travis-ci.org/jraleman/libunit)
 
 
 DESCRIPTION
