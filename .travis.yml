@@ -1,0 +1,12 @@
+os:
+  - osx
+
+language:
+  - c
+
+compiler:
+  - clang
+
+script:
+  - make
+  - make -C real-tests/
